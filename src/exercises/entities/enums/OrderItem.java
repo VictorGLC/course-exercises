@@ -1,4 +1,4 @@
-package entities.enums;
+package exercises.entities.enums;
 
 public class OrderItem {
 	private Integer quantity;

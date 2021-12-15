@@ -1,4 +1,4 @@
-package application;
+package exercises.enums;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,11 +6,11 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.enums.Client;
-import entities.enums.Order;
-import entities.enums.OrderItem;
-import entities.enums.OrderStatus;
-import entities.enums.Product;
+import exercises.entities.enums.Client;
+import exercises.entities.enums.Order;
+import exercises.entities.enums.OrderItem;
+import exercises.entities.enums.OrderStatus;
+import exercises.entities.enums.Product;
 
 public class OrderExercise {
 	public static void main(String[] args) throws ParseException {

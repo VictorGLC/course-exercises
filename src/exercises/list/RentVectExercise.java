@@ -1,10 +1,10 @@
-package application;
+package exercises.list;
 
 import java.util.Scanner;
 
-import entities.Rent;
+import exercises.entities.lists.Rent;
 
-public class VectExercise {
+public class RentVectExercise {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);

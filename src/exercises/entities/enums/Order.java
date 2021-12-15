@@ -1,4 +1,4 @@
-package entities.enums;
+package exercises.entities.enums;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
